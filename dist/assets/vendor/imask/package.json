@@ -1,6 +1,6 @@
 {
   "name": "imask",
-  "version": "6.1.0",
+  "version": "6.2.2",
   "author": "Alexey Kryazhev",
   "license": "MIT",
   "bugs": "https://github.com/uNmAnNeR/imaskjs/issues",
@@ -28,5 +28,5 @@
     "input",
     "mask"
   ],
-  "gitHead": "d21f437d301b8fb9500774c0804f10d4c6f8b314"
+  "gitHead": "228f2a4dce7125d0c7156868fcb5364b4487c8e6"
 }
